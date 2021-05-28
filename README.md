@@ -1,5 +1,5 @@
 # HJ_nonadditive_denoise
-This is the code of our paper .... [todo]
+This is the code of our paper "On Hamilton-Jacobi PDEs and image denoising models with certain non-additive noise" by J\'er\^ome Darbon, Tingwei Meng, Elena Resmerita.
 
 ## Structure of the code
 The files in the folder "multiplicative" is for multiplicative denoising. The files in the folder "poisson" is for Poisson denoising. 
